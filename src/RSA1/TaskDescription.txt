@@ -1,0 +1,9 @@
+Consider the following situation.
+You have obtained the following information from a password distribution centre that has just sent out a password in the form of a number made up of eight two digit ASCII representation of uppercase letters. 
+The password was sent to three recipients
+Each recipient is using unpadded RSA with public key values of 3 but different n values
+The three (ciphertext, n) pairs are,
+(1338853906351615603845328037909, 4963703553974661181865803149931)
+(742171294423584777417515756208, 2112487534646562115950045691561)
+(1364412949550017047575133658763, 3655661175938877172141578380053)
+Recover the password without factoring any of the n values.
