@@ -19,8 +19,3 @@ Consider the following two RSA public keys
 (n,e1) and (n,e2). They have been used to encrypt a password made up of four two digit ascii reperesentations to produce ciphertexts c1 and c2 respectively. Recover the password.
 
 The full problem description and input values can be found in "/src/RSA2/TaskDescription.txt".
-
-## Author
-
-* [@d_smorodinnikov](https://twitter.com/d_smorodinnikov) <br/>
-* [Dmitry Smorodinnikov's Blog](http://smorodinnikov.com/)<br/>
